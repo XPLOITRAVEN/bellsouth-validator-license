@@ -1,7 +1,5 @@
 license_key: X4P8Q2W7Z3
 expiration_date: 12-31-2025
-device_ids: a1b2c3d4e5f67890,1234567890abcdef,37ce0c2ccb2e10ba
 ---
 license_key: Y7T4G8H2N9
 expiration_date: 01-01-2026
-device_ids: 0987654321fedcba

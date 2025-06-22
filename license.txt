@@ -1,5 +1,5 @@
 license_key: X4P8Q2W7Z3
-expiration_date: 12-31-2025
+expiration_date: 07-22-2025
 ---
 license_key: Y7T4G8H2N9
-expiration_date: 01-01-2026
+expiration_date: 07-22-2025
